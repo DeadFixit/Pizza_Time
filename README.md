@@ -30,8 +30,7 @@ PizzaTime/
 
 ## Запуск
 ```bash
-cd PizzaTime
-dotnet run
+PizzaTime.sln - Запустить в visual studio, собрать и запустить проект
 ```
 
 ## Тестовый сценарий
