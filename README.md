@@ -29,7 +29,7 @@ PizzaTime/
 Pending → Cooking → Ready → PickedUp
 
 ## Запуск
-`ash
+`bash
 cd PizzaTime
 dotnet run
 `
